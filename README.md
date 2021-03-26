@@ -15,7 +15,7 @@ Working internet connection is required.
 Installation
 ------------
 
-Download the release. 
+Download the the files. 
 
 Move the files wttr.service and wttr.timer to your /etc/systemd/system/ folder.
 
