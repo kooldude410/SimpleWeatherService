@@ -1,0 +1,9 @@
+[Unit]
+Description=Simple weather service
+
+[Service]
+
+ExecStart=/home/michael/bin/wttr.sh
+
+[Install]
+WantedBy=multi-user.target
